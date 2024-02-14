@@ -1,0 +1,14 @@
+.fondo {
+    background-color: rgb(180, 180, 221);
+}
+
+.miTexto {
+    font-size: 80px;
+    color: rgb(104, 103, 59);
+}
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333333;
+    margin: 20px;
+}
